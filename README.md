@@ -7,7 +7,7 @@
  * Random Forest
  * Stochastic gradient descent
 
- And also we have used 3 Deep Learning approaches:
+ And also we have used 3 **Deep Learning** approaches:
  * Embedding with pooling
  * Embedding with concatination
  * Transformer
